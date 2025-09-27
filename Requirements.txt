@@ -1,0 +1,14 @@
+# General Libraries
+numpy
+pandas
+matplotlib
+
+# Image Processing
+Pillow  # For PIL/Image
+opencv-python # For cv2
+
+# Deep Learning Framework
+tensorflow==2.16.1  # Or the version you trained with (e.g., 2.15.0)
+
+# Scikit-learn for Evaluation
+scikit-learn
